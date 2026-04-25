@@ -1,0 +1,15 @@
+# After creating your GitHub repository, run these commands:
+
+# Add the remote repository (replace YOUR_USERNAME and REPO_NAME)
+git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
+
+# Rename branch to main (GitHub's default)
+git branch -M main
+
+# Push to GitHub
+git push -u origin main
+
+# Example:
+# git remote add origin https://github.com/johndoe/sentiment-analysis-app.git
+# git branch -M main
+# git push -u origin main
