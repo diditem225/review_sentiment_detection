@@ -55,3 +55,9 @@ debug_*.py
 *.db
 *.sqlite
 *.sqlite3
+
+# Helper/temp files
+git-push-commands.txt
+debug_test.py
+test_models.py
+test_response.py
